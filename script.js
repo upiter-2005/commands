@@ -5,3 +5,6 @@ function foo (a){
 function bee (){
   console.log('bee');
 }
+function myFooo(){
+  console.log('ewqwewqeqwewqewqeqweqwe');
+}
